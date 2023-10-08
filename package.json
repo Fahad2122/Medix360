@@ -10,6 +10,6 @@
     "solc": "0.8.7-fixed"
   },
   "scripts": {
-    "compile": "solcjs --bin --abi --include-path node-modules/ --base-path . -o . Medix.sol"
+    "compile": "solcjs --bin --abi --include-path node-modules/ --base-path . -o . Medix360.sol"
   }
 }
